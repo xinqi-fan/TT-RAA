@@ -1,0 +1,6 @@
+# Configuration for Hyperparameters
+
+shot_capacity: 1
+alpha: 9.0
+beta: 8.0 
+eta: 0.65

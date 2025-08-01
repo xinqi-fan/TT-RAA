@@ -1,0 +1,21 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore log files
+*.log
+
+# Ignore environment files
+.env
+
+# Ignore system files
+.DS_Store
+
+# Ignore node_modules
+node_modules/
+
+# Ignore vscode
+.vscode
+
+# Ignore results
+results
